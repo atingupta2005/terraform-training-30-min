@@ -4,6 +4,9 @@ Welcome to Terraform training.
 ## Presentation
 [Terraform-Basics](Terraform-Basics.pdf)
 
+## Video Recording
+ - https://www.facebook.com/1285575795/videos/10225662990543303/
+
 ## Terraform Installation
 [Install Terraform](Install-Terraform.md)
 
